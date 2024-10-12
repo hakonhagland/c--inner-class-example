@@ -1,0 +1,1 @@
+# cpp-inner-class-example
